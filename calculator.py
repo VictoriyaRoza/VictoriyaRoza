@@ -1,6 +1,6 @@
 import traceback
 
-
+# Это наш калькулятор
 class Calculator:
     last_res = None
 
